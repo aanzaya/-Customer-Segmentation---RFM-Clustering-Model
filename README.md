@@ -1,2 +1,2 @@
-# Customer-Segmentation---RFM-Clustering-Model
+# Customer-Segmentation - RFM-Clustering-Model
 A model Segmenting customers based on their needs
